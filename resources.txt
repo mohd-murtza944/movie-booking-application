@@ -1,0 +1,6 @@
+installation 
+npm i cors
+npm i express
+npm i mongodb
+npm i react-router-dom 
+npm i nodemon 
