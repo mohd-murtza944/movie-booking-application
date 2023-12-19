@@ -1,6 +1,13 @@
-installation 
+folders: backend 
+movies (frontend)
+
+
+BACKEND - installation:
 npm i cors
 npm i express
+npm install nodemon
+npm i react-router-dom
 npm i mongodb
-npm i react-router-dom 
-npm i nodemon 
+
+database username: murtza_chou,
+password: murtza123
